@@ -1,4 +1,4 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *SM Game Fund*
 
 Submitted by: **Serenity Vang**
 
@@ -19,7 +19,7 @@ The following **optional** features are implemented:
 
 * [X] List anything else that you can get done to improve the app functionality!
 
-I added a search bar to easily search for games. I also added hover options for the buttons to allow the users to see you can click on the actual buttons. I added the dollar amount for the 'Top Funded Game' and the 'Runner Up'. I also changed the colors for the webpage itself to white, grey, and navy blue (this color for hover as well).
+I added a search bar to easily search for games. I also added hover options for the buttons to allow the users to see you can click on the actual buttons. I added the dollar amount for the 'Top Funded Game' and the 'Runner Up'. I also changed the colors for the webpage itself to white, grey, and navy blue (this color for hover as well). I also renamed the webpage to SM Game Funds
 
 ## Video Walkthrough
 
@@ -27,7 +27,7 @@ Here's a walkthrough of implemented features:
 
 Video Walkthrough recorded with Loom ...
 
-Link: https://www.loom.com/share/94d39187bc6a4db388e21beb5fb93069?sid=9bf2c031-30c9-4bd4-8569-464409a24527
+Link: https://www.loom.com/share/61e8e59b6c58419880c0578f30148ea4?sid=9ee95d57-3c1d-4936-97b5-3e22498e5f7f
 
 
 ## Notes
