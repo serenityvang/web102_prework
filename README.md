@@ -19,7 +19,7 @@ The following **optional** features are implemented:
 
 * [X] List anything else that you can get done to improve the app functionality!
 
-I added a search bar to easily search for games. I also added hover options for the buttons to allow the users to see you can click on the actual buttons. I added the dollar amount for the 'Top Funded Game' and the 'Runner Up'. I also changed the colors for the webpage itself to white, grey, and navy blue (this color for hover as well). I also renamed the webpage to SM Game Funds
+I added a search bar to easily search for games. I also added hover options for the buttons to allow the users to see you can click on the actual buttons. I added the dollar amount for the 'Top Funded Game' and the 'Runner Up'. I also changed the colors for the webpage itself to white, grey, and navy blue (this color for hover as well). I also renamed the webpage to SM Game Funds.
 
 ## Video Walkthrough
 
@@ -33,6 +33,8 @@ Link: https://www.loom.com/share/61e8e59b6c58419880c0578f30148ea4?sid=9ee95d57-3
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+I had issues at first applying the game pictures to each game card. However, after realizing that I had to find the img source correctly and put an space for the img tag I was able to past this challenge after working on it for a little while. 
 
 ## License
 
