@@ -29,6 +29,12 @@ Video Walkthrough recorded with Loom ...
 
 Link: https://www.loom.com/share/61e8e59b6c58419880c0578f30148ea4?sid=9ee95d57-3c1d-4936-97b5-3e22498e5f7f
 
+## GIF
+Gif made with ... 
+LICEcap and then posted on imgur
+
+https://imgur.com/a/t7IJdjF
+
 
 ## Notes
 
